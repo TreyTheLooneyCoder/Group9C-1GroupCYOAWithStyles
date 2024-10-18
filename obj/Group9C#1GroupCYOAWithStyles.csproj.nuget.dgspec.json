@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {}
+    "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\Group9C#1GroupCYOAWithStyles.csproj": {}
   },
   "projects": {
-    "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {
+    "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\Group9C#1GroupCYOAWithStyles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
+        "projectUniqueName": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\Group9C#1GroupCYOAWithStyles.csproj",
         "projectName": "Group9C#1GroupCYOAWithStyles",
-        "projectPath": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
+        "projectPath": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\Group9C#1GroupCYOAWithStyles.csproj",
         "packagesPath": "C:\\Users\\amora\\.nuget\\packages\\",
-        "outputPath": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles\\Group9C-1GroupCYOAWithStyles\\obj\\",
+        "outputPath": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amora\\AppData\\Roaming\\NuGet\\NuGet.Config"
