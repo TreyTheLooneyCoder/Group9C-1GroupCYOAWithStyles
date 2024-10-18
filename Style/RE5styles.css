@@ -24,7 +24,6 @@ p{
     padding-bottom: 50px;
 }
 
-a{
-    color: black;
-    text-decoration: none;
+.fullbtn{
+    width: 100%;
 }
