@@ -1,0 +1,47 @@
+body{
+    background-color: darkslategray;
+    background-image: url(/assets/Untitled\ design\ \(8\).png);
+    background-size: 1600px;
+    background-position-x: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
+.container{
+    background: rgba(20, 20, 20, .6);
+    margin:auto;
+    width: 700px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container1{
+    justify-content: center;
+}
+
+img{
+   position: absolute;
+   opacity: 0.3;
+   bottom: -100px;
+   left: 10px;
+   z-index: -1;
+   height: 1000px;
+   width: 3000px;
+}
+
