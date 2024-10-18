@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "uWS1+xS82/Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
+=======
   "dgSpecHash": "p47RA/jEZgE=",
   "success": true,
   "projectFilePath": "C:\\CSA24 Combine Code Folder\\Git Repo\\Group9C-1GroupCYOAWithStyles-1\\Group9C#1GroupCYOAWithStyles.csproj",
+>>>>>>> 32cc4b10a9ce97fa316600231c254b941c44f66b
   "expectedPackageFiles": [],
   "logs": []
 }
