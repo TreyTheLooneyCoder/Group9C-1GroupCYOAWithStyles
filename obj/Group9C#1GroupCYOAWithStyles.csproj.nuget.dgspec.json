@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roytr\\Desktop\\CodeStack Academy\\Level-1\\Week-1\\Group9C#1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {}
+    "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roytr\\Desktop\\CodeStack Academy\\Level-1\\Week-1\\Group9C#1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {
+    "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roytr\\Desktop\\CodeStack Academy\\Level-1\\Week-1\\Group9C#1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
+        "projectUniqueName": "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
         "projectName": "Group9C#1GroupCYOAWithStyles",
-        "projectPath": "C:\\Users\\roytr\\Desktop\\CodeStack Academy\\Level-1\\Week-1\\Group9C#1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
-        "packagesPath": "C:\\Users\\roytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roytr\\Desktop\\CodeStack Academy\\Level-1\\Week-1\\Group9C#1GroupCYOAWithStyles\\obj\\",
+        "projectPath": "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\Group9C#1GroupCYOAWithStyles.csproj",
+        "packagesPath": "C:\\Users\\keith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keith\\OneDrive\\Documents\\Codestack\\Level1\\Week1\\CYOARE5\\Group9C-1GroupCYOAWithStyles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roytr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\keith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
