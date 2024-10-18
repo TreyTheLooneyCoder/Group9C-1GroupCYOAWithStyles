@@ -1,0 +1,25 @@
+body{
+    background-image: url(../RE5assets/thumb-1920-171162.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img{
+    width: 100%;
+}
+
+p{
+    font-size: 175%;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.408);
+}
+
+.container{
+    background-color: rgba(191, 191, 192, 0.453);
+    padding: 10px;
+}
+
+.padding{
+    padding-bottom: 50px;
+}
