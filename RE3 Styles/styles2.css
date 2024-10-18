@@ -1,0 +1,26 @@
+body {
+  background-image: url("/assets/GCYOAChoseGame.jpeg");
+  background-size: cover;
+}
+
+.buttonContainer {
+  display: flex;
+  height: 30px;
+  width: 600px;
+  background-color: #f0f0f0ad;
+  padding: 10px;
+}
+
+.centerThis {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+a {
+  color: black;
+}
